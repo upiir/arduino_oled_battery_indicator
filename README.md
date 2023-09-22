@@ -1,6 +1,9 @@
 # Battery Indicator with Arduino UNO and Tiny 0.42" 72x40px SSD1306 OLED Display
 Battery Indicator with Arduino UNO and Tiny 0.42" 72x40px SSD1306 OLED Display
 
+![battery_pixel_anim_300x180px](https://github.com/upiir/arduino_oled_battery_indicator/assets/117754156/949ad748-528c-4547-a312-3c68216e806a)
+
+
 **YOUTUBE video: https://youtu.be/caHcaUoQ2kg**
 
 **WOKWI sketch: https://wokwi.com/projects/376479299848582145**
